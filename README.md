@@ -8,3 +8,4 @@ Technologies used: C\C++, QT, WINAPI, Multi-threading
 Build kit: MVSC 2013 32bit (Qt)
 
 
+Author Yaroslav Mamrokha
